@@ -12,7 +12,7 @@
 	<atom:link href="https://residentes.scp.com.co/feed/" rel="self" type="application/rss+xml" />
 	<link>https://residentes.scp.com.co/</link>
 	<description></description>
-	<lastBuildDate>Fri, 16 Dec 2022 16:20:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Jan 2023 21:49:41 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,70 +20,247 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>Día de la Niñez y Adolescencia Indígena colombiana</title>
-		<link>https://residentes.scp.com.co/dia-de-la-ninez-y-adolescencia-indigena-colombiana-2/</link>
-					<comments>https://residentes.scp.com.co/dia-de-la-ninez-y-adolescencia-indigena-colombiana-2/#respond</comments>
+		<title>Viruela símica: epidemiología, manifestaciones y prevención</title>
+		<link>https://residentes.scp.com.co/viruela-simica-epidemiologia-manifestaciones-y-prevencion/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 16 Dec 2022 16:20:22 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://residentes.scp.com.co/?p=556</guid>
+		<pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+				<category><![CDATA[Actualidad]]></category>
+		<guid isPermaLink="false">https://residentes.scp.com.co/viruela-simica-epidemiologia-manifestaciones-y-prevencion/</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<description><![CDATA[Por: Pontificia Universidad Javeriana La viruela símica es transmitida por un virus DNA de doble cadena, del género Orthopoxvirus de la familia Poxviridae. Es uno de los cuatro Orthopoxvirus de especie patogénica para los humanos. Es una enfermedad zoonótica, descrita por primera vez en 1958 en monos de Singapur; sin embargo el primer caso confirmado [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Por: Pontificia Universidad Javeriana</em></p>
+<p>La viruela símica es transmitida por un virus DNA de doble cadena, del género Orthopoxvirus de la familia Poxviridae. Es uno de los cuatro Orthopoxvirus de especie patogénica para los humanos. Es una enfermedad zoonótica, descrita por primera vez en 1958 en monos de Singapur; sin embargo el primer caso confirmado en humanos fue en 1970, en un niño de 9 meses de edad en la República Democrática del Congo.</p>
+<p>Se desconoce el modo exacto de transmisión a los humanos. La infección primaria de animal a humano ocurre cuando se manipulan animales infectados con viruela símica, a través del contacto directo (toque, mordedura o arañazo) o indirecto. Se cree que el virus ingresa al cuerpo humano a través de la piel, el tracto respiratorio o las membranas mucosas (ojos, nariz o boca). La transmisión secundaria de persona a persona se considera común, presumiblemente por medio de gotas respiratorias grandes o contacto directo o indirecto con fluidos corporales, material de lesión y superficies contaminadas u otro material, como ropa o ropa de cama, e incluso se ha descrito transmisión nosocomial.</p>
+<p>En la mayoría de los casos, esta enfermedad se resuelve alrededor de tres a cuatro semanas después del inicio de los síntomas, siendo su periodo de incubación entre a 5 a 21 días. Los síntomas iniciales son inespecíficos, entre estos se incluyen cefalea, mialgia, fatiga y linfadenopatías, estas últimas pueden ayudar a diferenciar de la varicela, adicionalmente la fiebre inicia antes de que aparezcan las erupciones, posteriormente se desarrollan lesiones en la mucosa oral y con configuración centrífuga en la piel que compromete palmas y plantas, pueden ser máculas, pápulas, vesículas y pústulas, estas se caracterizan por ser firmes y profundas. Las lesiones permanecen en la fase pustular durante cinco a siete días, luego con formación de costras que descaman durante los siguientes 7 a 14 días, dejando de ser infectocontagiosa al caer la última lesión costrosa.</p>
+<p>La confirmación de la infección requiere pruebas de laboratorio a través del aislamiento en cultivo viral o PCR para el ADN. Existen otras pruebas que indican la presencia de Orthopoxvirus, como la visualización en microscopía electrónica, inmunohistoquímica para antígenos Orthopoxvirus, estudios de suero para IgM anti-orthopoxvirus (exposición reciente) e IgG (exposición previa o vacunación).</p>
+<p>Actualmente, no existen tratamientos específicos clínicamente probados para la infección, y al igual que con la mayoría de las enfermedades virales, el tratamiento es sintomático. La persona infectada debe permanecer aislada, usar una mascarilla quirúrgica y mantener las lesiones cubiertas hasta que todas las costras de las mismas se hayan desprendido.</p>
+<p>El inhibidor de la ADN polimerasa (brincidofovir), el inhibidor de la liberación viral intracelular (tecovirimat) y la inmunoglobulina tienen una eficacia desconocida. La vacuna Ankara, modificada, tiene un esquema de dos dosis con cuatro semanas de diferencia, con un perfil de seguridad superior en comparación con las vacunas contra la viruela. El contacto entre la piel o las membranas mucosas y los fluidos corporales, las gotitas respiratorias o las costras de un paciente infectado, se considera una exposición de alto riesgo que justifica la vacunación lo antes posible. Hoy en día aún no está disponible en Colombia. La vigilancia y la rápida detección de nuevos casos son fundamentales para contener los brotes epidémicos.</p>
+<p><strong><em>Bibliografía:</em></strong></p>
+<ol>
+<li><em>Moore, M. y Zahra, F. “Monkeypox”. StatPearls Publishing. NCBI Bookshelf (2020): 1-12.</em></li>
+<li><em>Petersen, Eskild, et al. «Human monkeypox: epidemiologic and clinical characteristics, diagnosis, and prevention.» Infectious Disease Clinics 33.4 (2019): 1027-1043.</em></li>
+</ol>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://residentes.scp.com.co/dia-de-la-ninez-y-adolescencia-indigena-colombiana-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Día de la Niñez y Adolescencia Indígena colombiana</title>
-		<link>https://residentes.scp.com.co/dia-de-la-ninez-y-adolescencia-indigena-colombiana/</link>
-					<comments>https://residentes.scp.com.co/dia-de-la-ninez-y-adolescencia-indigena-colombiana/#respond</comments>
+		<title>Proyectos de investigación y formación continua para los residentes de la  Especialización en Pediatría</title>
+		<link>https://residentes.scp.com.co/proyectos-de-investigacion-y-formacion-continua-para-los-residentes-de-la-especializacion-en-pediatria/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 16 Dec 2022 16:19:43 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://residentes.scp.com.co/?p=553</guid>
+		<pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+				<category><![CDATA[Actualidad]]></category>
+		<guid isPermaLink="false">https://residentes.scp.com.co/proyectos-de-investigacion-y-formacion-continua-para-los-residentes-de-la-especializacion-en-pediatria/</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<description><![CDATA[Por: Universidad El Bosque El posgrado de Especialización en Pediatría de la Universidad El Bosque ha estructurado su programa formativo sobre el modelo y la taxonomía de aprendizaje significativo (FINK, 2009) (1), que incluye los dominios: dar valor, aprender a aprender, conocimiento fundamental, aplicación, integración y dimensión humana (ver figura 1); lo que ha permitido [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Por: Universidad El Bosque </em></p>
+<p>El posgrado de Especialización en Pediatría de la Universidad El Bosque ha estructurado su programa formativo sobre el modelo y la taxonomía de aprendizaje significativo (FINK, 2009) (1), que incluye los dominios: dar valor, aprender a aprender, conocimiento fundamental, aplicación, integración y dimensión humana (ver figura 1); lo que ha permitido profundizar en el conocimiento, al igual que desarrollar áreas específicas de interés.</p>
+<p>Es por ello que desde la coordinación del programa y como propuestas para el fortalecimiento desde la jefatura de residentes, se aprobó el desarrollo de una jornada mensual dedicada a la investigación, en donde los residentes de pediatría que tengan un proyecto avalado por un comité de investigación puedan dedicar medía jornada de un viernes para asistir a las instituciones o reuniones pertinentes para la puesta en marcha de su iniciativa. Esto ha permitido que actualmente se tengan varias revisiones sistemáticas en curso: telemedicina, apnea del sueño y anticoagulación, entre otras; adicionalmente estudios de cohorte sobre comportamiento epidemiológico de enfermedades infectocontagiosas.</p>
+<p style="text-align: center;"><strong>Figura 1</strong>.  Taxonomía del aprendizaje significativo (Fink, 2009) (1)<img decoding="async" loading="lazy" class="size-medium wp-image-1115 aligncenter" src="https://residentes.scp.com.co/wp-content/uploads/2022/07/Figura-1.-Taxonomía-del-aprendizaje-significativo-Fink-2009-1-300x293.png" alt="" width="300" height="293" /></p>
+<p>Así mismo, de acuerdo a la oferta educativa posgradual de la universidad y entendiendo la dimensión humana por el desarrollo profesional en áreas no clínico-quirúrgicas, se han establecido acuerdos de formación continua en otros programas como son: Maestría en Epidemiología, Maestría en Educación y Especialización en Gerencia de la Calidad en Salud, entre otros, permitiendo así el acceso a conocimientos fundamentales de la práctica profesional en otras dimensiones, lo que mejora la integración al ejercicio profesional dentro del sistema educativo y de salud en el cual nos encontramos. Es así, como la Dra. Vivian Quiroga, residente de tercer año, quien cuenta con Especialización en Auditoría Médica, fue aceptada para el posgrado de Gerencia de la Calidad en Salud, la cual podrá adelantar durante su residencia de Pediatría, sin interferir con sus rotaciones de práctica clínica y tampoco en costos adicionales, contando con el tiempo que se requiere para ello.</p>
+<p style="text-align: center;"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1116" src="https://residentes.scp.com.co/wp-content/uploads/2022/07/Dra.-Vivian-Quiroga-Esp.-En-Auditoría-Médica-residente-de-Pediatría-y-futura-Esp.-en-Gerencia-de-la-Calidad-en-Salud.-169x300.png" alt="" width="169" height="300" /><br />
+<em>Dra. Vivian Quiroga, Esp. En Auditoría Médica, residente de Pediatría y futura Esp. en Gerencia de la Calidad en Salud.</em></p>
+<div class="gmail_default">Estas iniciativas y proyectos permiten que los residentes del programa de Pediatría de la universidad, puedan adquirir mayores destrezas y herramientas que fortalezcan y desarrollen su liderazgo, así como sus áreas de conocimiento para el desempeño profesional.</div>
+<p></p>
+<div class="gmail_default"><em>1. Fink, L (2009). Creating a significant learning experiences: an integrated approach to designing college course. Jossey-Bass. USA</em></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://residentes.scp.com.co/dia-de-la-ninez-y-adolescencia-indigena-colombiana/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Día de la Niñez y Adolescencia Indígena colombiana</title>
-		<link>https://residentes.scp.com.co/hello-world/</link>
-					<comments>https://residentes.scp.com.co/hello-world/#comments</comments>
+		<title>Residentes de la Universidad del Sinú &#8211; Seccional Cartagena se ponen la camiseta por los inmigrantes</title>
+		<link>https://residentes.scp.com.co/residentes-de-la-universidad-del-sinu-seccional-cartagena-se-ponen-la-camiseta-por-los-inmigrantes/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 14 Dec 2022 14:58:50 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://residentes.scp.com.co/?p=1</guid>
+		<pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+				<category><![CDATA[Actualidad]]></category>
+		<guid isPermaLink="false">https://residentes.scp.com.co/residentes-de-la-universidad-del-sinu-seccional-cartagena-se-ponen-la-camiseta-por-los-inmigrantes/</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<description><![CDATA[Por: Universidad del Sinú &#8211; Seccional Cartagena La Universidad del Sinú -Elías Bechara Zainúm-, tras analizar las necesidades de salud en Cartagena, encontró dificultades en la atención de las poblaciones más vulnerables, especialmente de los inmigrantes de países vecinos como Venezuela y Ecuador, por lo que inició un programa con una serie de brigadas para [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Por: Universidad del Sinú &#8211; Seccional Cartagena</em></p>
+<p>La Universidad del Sinú -Elías Bechara Zainúm-, tras analizar las necesidades de salud en Cartagena, encontró dificultades en la atención de las poblaciones más vulnerables, especialmente de los inmigrantes de países vecinos como Venezuela y Ecuador, por lo que inició un programa con una serie de brigadas para brindar atención primaria en salud a esta población.</p>
+<p>Las residentes del programa de pediatría de Unisinú Cartagena se han vinculado a esta causa, poniéndose la camiseta una vez más para contribuir por la salud de los pequeños en Colombia y Latinoamérica.</p>
+<p>Mensualmente el alma máter abre las puertas de sus instalaciones en la sede Plaza Colón, a través de los salones y las áreas de esparcimiento, adecuando consultorios con camillas e implementos necesarios para la atención, y organiza una pequeña farmacia con los medicamentos de más uso en medicina; allí el grupo de residentes de pediatría en compañía de docentes pediatras y profesionales de otros servicios como odontología, optometría y nutrición, atienden a los niños y sus familias inmigrantes.</p>
+<p>De esta manera, es aprovechada esta oportunidad para iniciar en los pacientes pediátricos el programa de crecimiento y desarrollo, indicando desparasitación, dando pautas para el inicio de la alimentación complementaria y educando a los padres sobre recomendaciones de buenos hábitos, al igual que enseñándoles signos de alarmas en la niñez.</p>
+<p>Este es uno de los espacios más esperados por las residentes, donde mes a mes atienden múltiples consultas como resfriados comunes, infecciones en la piel y desnutrición e inapetencia, entre otras situaciones, aprovechando la oportunidad en hacer énfasis en programas de promoción y prevención, educando e incentivando para desarrollar hábitos de autocuidado y bienestar, y contribuyendo a la salud de muchos niños, niñas y adolescentes con sueños, quienes devuelven esta atención con una gran sonrisa.</p>
+<p><strong>¡Ven, vamos a participar!</strong></p>
+<p>Desde el Departamento de Pediatría de la Universidad del Sinú &#8211; Seccional Cartagena queremos extenderles la invitación a inscribirse y participar en el ‘<strong>I Congreso de Especialidades Pediátricas’, </strong>un evento académico liderado año tras año por los residentes de pediatría en pro de contribuir a la formación de los profesionales de la salud de nuestro país. En esta ocasión tendrá lugar en el auditorio de la Universidad del Sinú &#8211; Sede Santillana, en la capital de Bolívar.<strong> ¡Te esperamos!</strong></p>
+<p><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1151" src="https://residentes.scp.com.co/wp-content/uploads/2022/07/esc-300x297.png" alt="" width="300" height="297" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://residentes.scp.com.co/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Exitoso VII Simposio Internacional de Actualización de Residentes de Pediatría</title>
+		<link>https://residentes.scp.com.co/exitoso-vii-simposio-internacional-de-actualizacion-de-residentes-de-pediatria/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+				<category><![CDATA[Actualidad]]></category>
+		<guid isPermaLink="false">https://residentes.scp.com.co/exitoso-vii-simposio-internacional-de-actualizacion-de-residentes-de-pediatria/</guid>
+
+					<description><![CDATA[Por: Universidad Libre &#8211; Seccional Barranquilla En mayo del presente año se llevó a cabo en Barranquilla el VII Simposio Internacional de Actualización de Residentes de Pediatría, con el eslogan: “Asumiendo la complejidad del niño críticamente enfermo”, el cual fue organizado por los residentes del programa de Especialización en Pediatría. Este evento contó con el [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Por: Universidad Libre &#8211; Seccional Barranquilla</em></p>
+<p>En mayo del presente año se llevó a cabo en Barranquilla el VII Simposio Internacional de Actualización de Residentes de Pediatría, con el eslogan: “Asumiendo la complejidad del niño críticamente enfermo”, el cual fue organizado por los residentes del programa de Especialización en Pediatría. Este evento contó con el apoyo de la regional Atlántico de la Sociedad Colombiana de Pediatría, la Facultad de Ciencias de la Salud y las áreas de Educación Continuada, Proyección Social y Relaciones Internacionales e Interinstitucionales de la Universidad Libre – Seccional Barranquilla.</p>
+<p>El espacio académico tuvo como objetivo exponer una visión actualizada acerca de temas de gran relevancia en las unidades de cuidado intensivo pediátricas y neonatales, como manejo de la vía aérea y ventilación mecánica, manejo de infecciones en la UCI, patologías y cuidados cardiovasculares, neuromonitoreo, reanimación cardiopulmonar, transfusiones, insuficiencia suprarrenal, manejo del duelo y cuidados paliativos. Para ello, se dieron cita expertos de países como Argentina y México, así como de Colombia, teniendo la participación de asistentes nacionales e internacionales en modalidad presencial y virtual.</p>
+<p>Asimismo, se le otorgó el reconocimiento como egresada destacada de nuestro posgrado, a la Dra. Olga Maza Caneva, Cardióloga Pediatra, por su distinguida labor en la atención de los pacientes con cardiopatía congénita en la Costa Caribe y su rol incansable en la formación académica de nuevas generaciones de pediatras y médicos generales. Esta distinción fue entregada por parte de los residentes de pediatría y el coordinador del programa, Dr. Luis Sánchez Del Villar.</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1107" src="https://residentes.scp.com.co/wp-content/uploads/2022/07/Exitoso-VII-Simposio-Internacional-de-Actualización-de-Residentes-de-Pediatría2-e1657232835939-300x238.png" alt="" width="300" height="238" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hepatitis aguda grave de etiología desconocida: alerta en Colombia</title>
+		<link>https://residentes.scp.com.co/hepatitis-aguda-grave-de-etiologia-desconocida-alerta-en-colombia/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+				<category><![CDATA[Actualidad]]></category>
+		<guid isPermaLink="false">https://residentes.scp.com.co/hepatitis-aguda-grave-de-etiologia-desconocida-alerta-en-colombia/</guid>
+
+					<description><![CDATA[Por: Comité de Residentes (Fundación Universitaria de Ciencias de la Salud) Recientemente en Colombia, el Ministerio de Salud y Protección Social, y el Instituto Nacional de Salud confirmaron el primer caso de hepatitis aguda grave de origen desconocido en niños, un llamado de atención para quienes trabajan en el cuidado de la población pediátrica porque [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Por: Comité de Residentes<br />
+</em><span id="m_-8730976972766775588gmail-docs-internal-guid-d5633328-7fff-093a-506e-2928ddc73d1d">(Fundación Universitaria de Ciencias de la Salud)</span></p>
+<p>Recientemente en Colombia, el Ministerio de Salud y Protección Social, y el Instituto Nacional de Salud confirmaron el primer caso de hepatitis aguda grave de origen desconocido en niños, un llamado de atención para quienes trabajan en el cuidado de la población pediátrica porque como en otros países pudiese ser este solo la ‘punta del iceberg’.</p>
+<p>El 31 de marzo de este año en Escocia, la Junta del Servicio Nacional de Salud de ese país alertó sobre cinco casos de niños de 3 a 5 años de edad con esta patología, que se presentaron en el Royal Hospital for Children (Glasgow) en un periodo de tres semanas, por lo cual se hace una definición de caso para proceder a la búsqueda activa de otros, con lo que al final de un mes pudieron asociar 13 casos en total en Escocia, así como 60 casos en Inglaterra, Gales e Irlanda del Norte desde el 1 de enero de 2022 (1).</p>
+<p>En un artículo publicado en mayo se informan de al menos 191 casos probables de hepatitis aguda de etiología desconocida en 15 zonas: Reino Unido, Italia, España, Dinamarca, Irlanda, Países Bajos, Noruega, Francia, Austria, Bélgica, Alemania, Polonia, Rumanía, Israel, Estados Unidos y Japón; en niños con edades comprendidas entre 1 mes y 16 años. Los pacientes presentaron predominantemente ictericia, vómitos, heces pálidas y otros síntomas gastrointestinales (náuseas y diarrea), al igual que letargo y menos comúnmente fiebre y síntomas respiratorios; con elevación de transaminasas superior a 500 UI/L y aislamiento de adenovirus entre 50-75% de los pacientes en todos los países que reportan casos. Además, sin incidencias de exposición notable con respecto a los viajes, la estructura familiar, la ocupación de los padres, la dieta, la fuente de agua, la exposición a animales y las vacunas o sustancias tóxicas; con algunos reportes de infección por SARS-COV2 (2).</p>
+<p>La Organización Mundial de la Salud (OMS) en su última nota técnica al respecto publicada en mayo, indica que desde el reporte de Escocia se han notificado 348 casos probables en 21 países, incluyendo 26 que requirieron trasplante hepático, y afirma que en las próximas semanas se contará con la información sobre etiología que contribuya con las medidas de prevención, tratamiento y control (3).</p>
+<p>Por recomendación de la OMS y el Centro Europeo para la Prevención y Control de Enfermedades, se define como caso probable a una persona que presenta una hepatitis aguda (no HepA-E) con aminotransferasas séricas &gt;500 UI/L que tiene 16 años o menos, desde el 1 de octubre de 2021, y epidemiológicamente vinculados a una persona que presente una hepatitis aguda (no HepA-E) de cualquier edad que sea un contacto cercano de un caso probable con relación a dicha fecha, y recomiendan un estudio para Hepatitis A, B, C, D, E, citomegalovirus, virus de Epstein-Bar, varicela, VIH, SARS-CoV-2, adenovirus, Brucella spp., Bartonella henselae, Borrelia burgdorferi y cultivos guiados por la epidemiología (2). Colombia deberá adherirse a estas disposiciones, así como el personal de salud a cargo de la población pediátrica realizar una búsqueda intensificada de más casos a propósito del primer caso reportado.</p>
+<p><strong><em>Bibliografía:</em></strong></p>
+<ol>
+<li>Marsh K, Tayler R, Pollock L, et al. Investigation into cases of hepatitis of unknown aetiology among young children, Scotland, 1 January 2022 to 12 April 2022. Euro Surveill. 2022;27(15):2200318.</li>
+<li>Mücke MM, Zeuzem S. The recent outbreak of acute severe hepatitis in children of unknown origin &#8211; what is known so far. J Hepatol. 2022 May 6:S0168-8278(22)00271-9.</li>
+<li>Organización Panamericana de la Salud / Organización Mundial de la Salud. Nota técnica: Hepatitis aguda grave de causa desconocida en niños. 10 de mayo de 2022, Washington, D.C.: OPS/OMS; 2022.</li>
+</ol>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Programa de Especialización en Pediatría retoma sus actividades de proyección social</title>
+		<link>https://residentes.scp.com.co/programa-de-especializacion-en-pediatria-retoma-sus-actividades-de-proyeccion-social/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+				<category><![CDATA[Actualidad]]></category>
+		<guid isPermaLink="false">https://residentes.scp.com.co/programa-de-especializacion-en-pediatria-retoma-sus-actividades-de-proyeccion-social/</guid>
+
+					<description><![CDATA[Por: Fundación Universitaria de Ciencias de la Salud Desde agosto de 2021, los residentes del programa de Especialización en Pediatría de la Fundación Universitaria de Ciencias de la Salud (FUCS) retomaron sus jornadas de proyección social de forma presencial, luego de 18 meses de trabajo con la comunidad de manera virtual en telemedicina en Sibaté [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Por: Fundación Universitaria de Ciencias de la Salud</em></p>
+<p><img decoding="async" loading="lazy" class="size-medium wp-image-1026 alignleft" src="https://residentes.scp.com.co/wp-content/uploads/2022/04/1-225x300.jpg" alt="" width="225" height="300" />Desde agosto de 2021, los residentes del programa de Especialización en Pediatría de la Fundación Universitaria de Ciencias de la Salud (FUCS) retomaron sus jornadas de proyección social de forma presencial, luego de 18 meses de trabajo con la comunidad de manera virtual en telemedicina en Sibaté (Cundinamarca), la cual se cumplió a través de Facebook LIVE, actividades lúdicas, folletos educativos para estudiantes, asesorías a padres y cuidadores en jardines infantiles, en el marco de la pandemia COVID-19.</p>
+<p>En este regreso a la presencialidad, contamos con el acompañamiento del programa de Enfermería y Medicina Familiar FUCS, en convenio con la EPS Medimás, con el fin de identificar el riesgo de los niños y niñas en su ciclo vital de primera infancia. Atendimos a estudiantes del Jardín Samper Mendoza, de Bogotá.</p>
+<p>Nuestro propósito es el cumplimiento de los objetivos de desarrollo sostenible y la normatividad dada por las Rutas  Integrales de Atención en Salud (RIAS) del Ministerio de Salud y Protección Social. La población beneficiada está entre los 6 meses y 6 años de edad, en su mayoría con alto riesgo de vulnerabilidad por ser hijos de padres inmigrantes o en condición de calle, esquema de vacunación incompleta o sin acceso a seguridad social, entre otras situaciones.</p>
+<p>Se realizan actividades de promoción y prevención, educación a padres y cuidadores en la identificación de signos de alarma y recomendaciones en el hogar para el cuidado del menor, procurando el bienestar de quienes conforman su entorno. La primera infancia es una de las etapas más vulnerables del desarrollo con altas tasas de morbimortalidad en situación de pobreza. Además, sigue siendo uno de los temas centrales en la agenda de salud pública en Latinoamérica y el Caribe, por las condiciones precarias de muchos niños y la franca necesidad de solventar sus carencias, así como permitirles su desarrollo, construyendo sociedades más incluyentes y equitativas.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>XXXVIII Curso de Actualización en Pediatría: ‘Saberes y argumentos compartidos’</title>
+		<link>https://residentes.scp.com.co/xxxviii-curso-de-actualizacion-en-pediatria-saberes-y-argumentos-compartidos/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+				<category><![CDATA[Actualidad]]></category>
+		<guid isPermaLink="false">https://residentes.scp.com.co/xxxviii-curso-de-actualizacion-en-pediatria-saberes-y-argumentos-compartidos/</guid>
+
+					<description><![CDATA[Por: Universidad de Antioquia Luego de meses de preparación, el Departamento de Pediatría de la Universidad de Antioquia, en cabeza de sus directivas, docentes y su grupo de residentes, llevó a cabo en febrero de 2022 la  XXXVIII versión del Curso de Actualización en Pediatría: ‘Saberes y argumentos compartidos’, un evento realizado con el fin [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Por: </em><em>Universidad de Antioquia</em></p>
+<p>Luego de meses de preparación, el Departamento de Pediatría de la Universidad de Antioquia, en cabeza de sus directivas, docentes y su grupo de residentes, llevó a cabo en febrero de 2022 la  XXXVIII versión del Curso de Actualización en Pediatría: ‘Saberes y argumentos compartidos’, un evento realizado con el fin de reunir el conocimiento más actualizado respecto a la atención y cuidado de nuestros niños, niñas y adolescentes, y permitir a los estudiantes de Medicina, médicos y pediatras en ejercicio, ampliar su visión en los diversos temas abordados.</p>
+<p>Después de dos años en los que la virtualidad fue la protagonista, pudimos volver a reunirnos de forma presencial, el primer día en el auditorio principal de la Facultad de Medicina con más de 200 participantes, entre los que se encontraban docentes, padres de familia, psicólogos y demás profesionales de la salud, para disfrutar del Simposio de Crianza y Puericultura con los temas crianza y pandemia, así como crianza y cambio climático. Contamos con la participación especial de Kamak Pacha Tisoy (Pablo), integrante del pueblo indígena Inga, quien desde el municipio de Santiago (Putumayo) nos compartió la experiencia de “sembrar vida”.</p>
+<p>Los dos días siguientes, la cita fue en el Centro de Convenciones Plaza Mayor, donde se desarrolló este evento, con la participación de más de 45 expositores entre residentes y reconocidos docentes en cada área, especialmente de la Dra. Maria Azucena Niño Tovar, Neonatóloga y Especialista en Bioética, y docente de la Universidad Industrial de Santander, abordando el tema: consideraciones éticas en el límite de viabilidad. Tuvimos más 150 participantes y siguieron el curso desde la virtualidad, 285 profesionales de la salud en distintas etapas de formación y desde diferentes departamentos del país. Para esta oportunidad, además de las exposiciones realizadas (práctica y casos clínicos), hubo espacios para la realización de talleres de forma presencial.  Finalmente, se cumplió el simposio de cierre sobre trastornos de aprendizaje, el cual fue liderado por el área de Neurología Infantil, reuniendo a  110 personas más interesadas en este tema específico, en salas simultáneas con profesionales de salud de distintas áreas, docentes y padres de familia.</p>
+<p>Esta integración de actividades fue muy bien aceptada por los participantes, quienes además de recibir las memorias del evento, obtuvieron una certificación de créditos de educación continua en el sistema nacional de creditaje operado por ASCOFAME (Asociación Colombiana de Facultades de Medicina). Los invitamos a permanecer atentos a nuestras actividades académicas a través del Centro de Extensión de la Facultad de Medicina.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La infancia de los países en guerra</title>
+		<link>https://residentes.scp.com.co/la-infancia-de-los-paises-en-guerra/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+				<category><![CDATA[Actualidad]]></category>
+		<guid isPermaLink="false">https://residentes.scp.com.co/la-infancia-de-los-paises-en-guerra/</guid>
+
+					<description><![CDATA[Por: Universidad Nacional de Colombia Para nadie es un secreto que la guerra resulta siendo un círculo del cual los países muchas veces no logran salir, prolongándose en el tiempo y expandiendo sus fronteras, además afectando a la población en general. Sin embargo, el efecto que tiene sobre la población adulta no es el mismo [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Por: Universidad Nacional de Colombia</em></p>
+<p>Para nadie es un secreto que la guerra resulta siendo un círculo del cual los países muchas veces no logran salir, prolongándose en el tiempo y expandiendo sus fronteras, además afectando a la población en general. Sin embargo, el efecto que tiene sobre la población adulta no es el mismo que en la niñez. Los niños, niñas y adolescentes, al ser un grupo vulnerable en quienes sus derechos dependen de la sociedad para ser garantizados, tienen mayor riesgo de sufrir las consecuencias de la violencia de una nación.</p>
+<p>A raíz del reciente conflicto que se vive en Ucrania, han salido nuevamente a flote las condiciones que vivencia la infancia habitante en zonas de guerra, dado que no solo están expuestos a situaciones como la muerte y la desolación, sino que son víctimas activas del conflicto. Si vemos un poco más de cerca, en Colombia nuestros niños siguen viviendo día a día los horrores de una guerra que se ha extendido durante décadas y parece no tener fin; diariamente decenas de menores son asesinados a raíz de diferentes situaciones derivadas del conflicto interno, pero también son reclutados contra su voluntad para ejercer violencia en contra de la población.</p>
+<p>Se estima que actualmente la vida de más de 7 millones de niños ucranianos se encuentra en riesgo inminente, además según el último reporte de UNICEF (Fondo de las Naciones Unidas para la Infancia), más de la mitad de los desplazados por la guerra son niños. Los efectos que traen dichos eventos a la sociedad se han descrito en múltiples publicaciones científicas, siendo bien conocido que crecer en un ambiente de guerra trae consigo grandes problemas que se verán reflejados en la población adulta.</p>
+<p>Al revisar las consecuencias que la guerra ocasiona en la infancia y adolescencia, no solo se describe la muerte temprana a consecuencia de diferentes causales de índole emocional y orgánico, sino se exponen situaciones a las que los niños son sometidos como el abuso emocional, sexual y físico, quedando abandonados y perdidos en una sociedad en la que muchas veces se deja de lado la protección de los derechos humanos.</p>
+<p>A su vez, a causa del conflicto europeo actual, se reporta que hay cientos de niños, niñas y adolescentes que han resultado heridos y hasta el momento más de 280 instituciones educativas han sido destruidas, siendo estas uno de los objetivos militares, con un promedio de 17 lugares destruidos diariamente, privando de la educación a la totalidad de la población infantil de Ucrania, a sabiendas del impacto que esto genera en el desarrollo de un país. Por lo tanto, debemos trabajar como sociedad en garantizar que los derechos de los niños, niñas y adolescentes sean respetados y ellos sean apartados de la situación de conflicto que viven las naciones, a su vez asegurando que no se conviertan en maquinaria de defensa para ninguna de las partes involucradas y sus vidas sean valoradas como un hecho primordial.</p>
+<p><em>Bibliografía:</em></p>
+<p><em>Slone M, Peer A. Children&#8217;s Reactions to War, Armed Conflict and Displacement: Resilience in a Social Climate of Support. Curr Psychiatry Rep. 2021 Oct 6;23(11):76.</em></p>
+<p><em>Shenoda S, Kadir A, Pitterman S. The Effects of Armed Conflict on Children. </em><em>Pediatrics. 2018 Dec;142(6):e20182585.</em></p>
+<p><em>https://www.unicef.org/es/emergencias/guerra-ucrania-supone-amenaza-inmediata-para-ninos-y-ninas.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>El ‘bullying’ escolar, una moda que incomoda</title>
+		<link>https://residentes.scp.com.co/el-bullying-escolar-una-moda-que-incomoda/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+				<category><![CDATA[Actualidad]]></category>
+		<guid isPermaLink="false">https://residentes.scp.com.co/el-bullying-escolar-una-moda-que-incomoda/</guid>
+
+					<description><![CDATA[Por: Universidad del Cauca Recientemente se hizo viral la historia de Drayke Hardman, un adolescente de 12 años de edad que había sido víctima de bullying en su colegio y finalmente agobiado por esta situación, decide quitarse la vida. Sus padres compartieron conmovedoras fotografías en redes sociales donde están al lado del cuerpo de su [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Por: Universidad del Cauca</em></p>
+<p>Recientemente se hizo viral la historia de Drayke Hardman, un adolescente de 12 años de edad que había sido víctima de bullying en su colegio y finalmente agobiado por esta situación, decide quitarse la vida. Sus padres compartieron conmovedoras fotografías en redes sociales donde están al lado del cuerpo de su hijo, con un mensaje que inicia con una frase contundente: “Este es el resultado del bullying”.</p>
+<p>El bullying es un anglicismo muy usado en los últimos años, también conocido como matoneo o acoso escolar. Se define como cualquier forma de maltrato físico, psicológico o verbal reiterado e intencional que sufre un niño por parte de otro. Empujones al hacer la fila en la cafetería, apodos humillantes, insultos y risas cada vez que salen al tablero, son tan solo algunos ejemplos de las formas de maltrato que pueden sufrir los niños y adolescentes, incluso los adultos en otros aspectos. Es un problema que se ve cada vez con más frecuencia, con cifras de uno por cada cinco niños, según algunos estudios en Colombia.</p>
+<p>Aquellos que tienen mayor riesgo de ser víctimas de bullying son los niños con algún tipo de discapacidad física o cognitiva. Este hostigamiento no solo perjudica a la víctima sino al que lo ejecuta, así como a sus cómplices y los testigos, ya que se acostumbran a la violencia y la toleran como si fuera algo normal, perpetuando el problema.</p>
+<p>El bullying tiene efectos negativos en la salud física del niño, su bienestar emocional y el rendimiento académico; genera terror y disociación en todas las áreas, por lo que la víctima puede manifestar miedo de asistir a clases y pierde confianza en sí mismo. Se pueden evidenciar síntomas como tristeza y ansiedad, e incluso llevarlo a conductas suicidas como método de escape ante esta situación.</p>
+<p>Por eso es importante que las personas cercanas a los niños como padres y profesores, estén muy atentos a los signos de alarma que puedan indicar que está sufriendo de acoso. Por ejemplo, cambios en el comportamiento normal, respuestas impulsivas, tendencia al aislamiento, trastornos del sueño, pesadillas, falta de apetito, somatización con dolores recurrentes de causa no orgánica y síntomas propios de depresión o ansiedad, así como señales físicas sin una explicación coherente. Identificar a tiempo a un niño víctima de bullying y tomar conductas al respecto, puede impedir que esta intimidación continúe y frenar la posibilidad de complicaciones mayores.</p>
+<p>Es importante también destacar que la prevención empieza en casa, generando una relación abierta entre padres e hijos que permita la comunicación libre de emociones, así como una crianza basada en el respeto y el amor que fortalezca la seguridad y confianza en sí mismos; lo cual actuará como un escudo protector contra este gran problema que cada vez está más de moda pero que incomoda y puede ocasionar resultados muy lamentables.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Beneficios de una adecuada higiene del sueño en la infancia y adolescencia</title>
+		<link>https://residentes.scp.com.co/beneficios-de-una-adecuada-higiene-del-sueno-en-la-infancia-y-adolescencia/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+				<category><![CDATA[Actualidad]]></category>
+		<guid isPermaLink="false">https://residentes.scp.com.co/beneficios-de-una-adecuada-higiene-del-sueno-en-la-infancia-y-adolescencia/</guid>
+
+					<description><![CDATA[Por: Universidad Libre (Seccional Barranquilla) Los seres humanos dedicamos gran parte del tiempo de nuestra vida al sueño. En la infancia, el sueño es una actividad que forma parte del proceso evolutivo de los niños y se inicia intraútero, con una naturaleza diferente en calidad y cantidad respecto a los adultos, encontrándose periodos de sueño [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Por: Universidad Libre (Seccional Barranquilla)</em></p>
+<p>Los seres humanos dedicamos gran parte del tiempo de nuestra vida al sueño. En la infancia, el sueño es una actividad que forma parte del proceso evolutivo de los niños y se inicia intraútero, con una naturaleza diferente en calidad y cantidad respecto a los adultos, encontrándose periodos de sueño y vigilia a partir de las 30-32 semanas de gestación, y predominando ciclos de sueño prolongados de más de 18 horas. Posterior al nacimiento, recién nacidos y lactantes menores duermen entre 12-18 horas diarias, lactantes mayores entre 11-14 horas, pre-escolares entre 10-13 horas, de 6 a 12 años entre 9 -12 horas, de 12 a 18 años entre 8-10 horas, y todavía menos en la edad adulta (1). Los trastornos del sueño afectan cerca del 30% de los niños, niñas y adolescentes y está demostrado que un sueño insuficiente y/o de mala calidad, impacta en el desarrollo de los trastornos emocionales y la conducta, y puede llegar a alterar la cognición, el rendimiento en actividades cotidianas y las relaciones psicosociales en el entorno familiar (3). También es una comorbilidad frecuente en los pacientes con obesidad, diabetes, trastorno del espectro autista, trastorno por déficit de atención e hiperactividad, y trastornos depresivos (4), asociándose a un mayor riesgo de autolesiones, pensamientos e intentos suicidas, especialmente en los adolescentes (5).</p>
+<p>Lo más llamativo es que las conductas inadecuadas del sueño, generalmente tienen su origen en condiciones específicas del entorno del niño a la hora de dormir, entre las cuales se destaca el exceso de estímulos (por ejemplo: uso de pantallas, juegos y alimentación) y el poco establecimiento de límites por parte de sus cuidadores que permiten los procesos madurativos normales de los patrones de sueño (4,5). Así, entonces, durante la consejería con los padres y el propio niño(a) acerca de la higiene del sueño, se debe reconocer que el sueño, aparte de ser una necesidad fisiológica con funciones organizativas neuropsicológicas, es un hábito susceptible de entrenamiento, muy ligado a normas familiares y sociales (6).</p>
+<p>Es fundamental que sepamos reconocer que estas prácticas inadecuadas condicionan la aparición de problemas del sueño. Por ejemplo, por mencionar algunas, es frecuente observar que los padres al sentir que sus hijos se despiertan durante la noche, encienden la luz, les ofrecen alimento e inician nuevamente el ritual para dormir. A este respecto, se aconseja que, si el niño(a) se despierta y está tranquilo, el padre debe controlar su ansiedad y permitir que el niño(a) recupere su ciclo de sueño por sí mismo (5,6). Situación similar sucede con movimientos mioclónicos normales, que son malinterpretados como un “mal dormir”; sin embargo, se conoce que estas actividades musculares pueden estar presentes entre un ciclo de sueño y otro, y pueden mejorarse con la atenuación de los estímulos en su ambiente, logrando que el niño vuelva a dormir sin inconvenientes (6,9). Dentro del establecimiento de rutinas, debe aconsejarse que el niño antes de los 6 meses de vida tenga su propio sitio para dormir, lo cual favorece la autonomía e independencia en su desarrollo. Por lo tanto, si no se establecen normas adecuadas de puericultura del sueño, se puede propiciar una intensa ansiedad de separación y un ambiente que conlleva a miedos y pesadillas nocturnas, además de generar dificultades en la dinámica familiar y en la relación de parejas (6).</p>
+<p>Con base en lo anterior, queda claro que el sueño no es solo un hábito, como vestirse o comer, sino que es una cuestión de disciplina y autoridad, y para lograr los objetivos se requiere paciencia y constancia por parte de los cuidadores. Por lo tanto, como recomienda la Academia Americana de Medicina del Sueño (1), resulta imprescindible explicarles a los padres los patrones normales de sueño según la edad del niño y aconsejar sobre hábitos correctos, que incluyen: establecer una rutina pre-sueño con actividades tranquilas, mantener una  hora constante de acostarse y levantarse, evitar siestas prolongadas o tardías, evitar actividades de alta energía o estimulantes (como uso de dispositivos y pantallas) justo antes de ir a la cama, no enviar al niño a dormir con hambre ni muy saciado o tras una comida pesada, evitar productos con cafeína horas antes de acostarse, realizar ejercicio regular durante el día, y mantener un ambiente agradable a la hora de dormir (6-9).</p>
+<p>Como conclusión, el aprendizaje de los hábitos de sueño, que debe iniciar desde muy temprano con el reconocimiento por el niño de las diferencias entre los estímulos diurnos y nocturnos, y la enseñanza a los padres de las buenas prácticas al dormir, favorece el desarrollo del comportamiento social, el aprendizaje, la regulación emocional, la calidad de vida y la salud mental (1,6). Por lo tanto, es importante que los pediatras y puericultores estén familiarizados con el conocimiento de los diferentes patrones y problemas del sueño infantil, necesarios en el intercambio de saberes con los cuidadores del niño, como uno de los temas prioritarios en la consulta de crecimiento y desarrollo.</p>
+<p><strong><em>Bibliografía:</em></strong></p>
+<ol>
+<li><em> Paruthi S, Brooks LJ, D&#8217;Ambrosio C, et al. </em><em>Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med 2016; 12:785.</em></li>
+<li><em> Dutil C, Chaput JP. Inadequate sleep as a contributor to type 2 diabetes in children and adolescents. Nutr Diabetes. 2017 May 8;7(5):e266.</em></li>
+<li><em> Astill RG, Van der Heijden KB, Van IJzendoorn MH, Van Someren EJW (2012) Sleep, cognition, and behavioral problems in school-age children: a century of research meta-analyzed. Psychol Bull 138:1109–1138</em></li>
+<li><em> Van der Heijden, K.B., Stoffelsen, R.J., Popma, A. et al. Sleep, chronotype, and sleep hygiene in children with attention-deficit/hyperactivity disorder, autism spectrum disorder, and controls. Eur Child Adolesc Psychiatry 27, 99–111 (2018)</em></li>
+<li><em> Wendy A. Hall, Elizabeth Nethery, What does sleep hygiene have to offer children’s sleep problems? </em><em>Paediatric Respiratory Reviews, Volume 31, 2019, Pages 64-74, ISSN 1526-0542.</em></li>
+<li><em> Posada Díaz A., Gómez Ramírez J.F.,Ramírez Gómez H. (2016). El niño sano , una visión integral. Editorial médica panamericana</em></li>
+<li><em> M. Pla Rodríguez, A. Navarro Álbert, A. Lluch Roselló, J. Álbares Albares. Herramientas diagnósticas. Nuevas Tecnologías. Educación de los hábitos de sueño. Medidas preventivas en familia (2018). Pediatría Integral; XXII (8): 372–384.</em></li>
+<li><em> Mindell, J. A., &amp; Williamson, A. A. (2018). </em><em>Benefits of a bedtime routine in young children: Sleep, development, and beyond. Sleep Medicine Reviews, 40(2018), 93–108. https://doi.org/10.1016/j.smrv.2017.10.007.</em></li>
+<li><em> Agostini, A., &amp; Centofanti, S. (2021). Normal Sleep in Children and Adolescence. Child and Adolescent Psychiatric Clinics of North America, 30(1), 1–14. https://doi.org/10.1016/j.chc.2020.08.011.</em></li>
+</ol>
+]]></content:encoded>
+					
 		
 		
 			</item>
