@@ -11,29 +11,11 @@
 	<atom:link href="https://residentes.scp.com.co/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://residentes.scp.com.co/</link>
 	<description></description>
-	<lastBuildDate>Fri, 16 Dec 2022 16:01:15 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Jan 2023 21:53:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
-	<item>
-		<title>
-		Comentario en Día de la Niñez y Adolescencia Indígena colombiana por A WordPress Commenter		</title>
-		<link>https://residentes.scp.com.co/hello-world/#comment-1</link>
-
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Wed, 14 Dec 2022 14:58:50 +0000</pubDate>
-		<guid isPermaLink="false">https://residentes.scp.com.co/?p=1#comment-1</guid>
-
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
